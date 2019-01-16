@@ -1,5 +1,5 @@
 # BlockIP
-a linux kernel module for blocking IP:port 
+a linux kernel module for blocking IP:port udp and tcp packets
 
 # compatibility
 this code tested on Arch linux with linux kernel 4.14.88-1-lts
